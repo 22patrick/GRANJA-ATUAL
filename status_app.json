@@ -1,0 +1,12 @@
+[
+    {
+        "luz": false,
+        "exaustores": true,
+        "aromatizador": false
+    },
+    {
+        "camera1": "garagem",
+        "camera2": "piscina",
+        "camera3": "sala jogos"
+    }
+]
